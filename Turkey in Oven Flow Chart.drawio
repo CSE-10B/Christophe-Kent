@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15" version="29.3.8">
+  <diagram name="Page-1" id="WLqgiEDSqr1D02gbOLWE">
+    <mxGraphModel dx="1216" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UIcPYd9wOnYTSeoEbfls-3" edge="1" parent="1" source="UIcPYd9wOnYTSeoEbfls-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UIcPYd9wOnYTSeoEbfls-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIcPYd9wOnYTSeoEbfls-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="-790" as="geometry" />
+        </mxCell>
+        <mxCell id="UIcPYd9wOnYTSeoEbfls-5" edge="1" parent="1" source="UIcPYd9wOnYTSeoEbfls-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UIcPYd9wOnYTSeoEbfls-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIcPYd9wOnYTSeoEbfls-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Turn on Oven" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="-660" as="geometry" />
+        </mxCell>
+        <mxCell id="UIcPYd9wOnYTSeoEbfls-7" edge="1" parent="1" source="UIcPYd9wOnYTSeoEbfls-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UIcPYd9wOnYTSeoEbfls-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIcPYd9wOnYTSeoEbfls-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Put Turkey In the oven&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="-540" as="geometry" />
+        </mxCell>
+        <mxCell id="UIcPYd9wOnYTSeoEbfls-9" edge="1" parent="1" source="UIcPYd9wOnYTSeoEbfls-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UIcPYd9wOnYTSeoEbfls-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIcPYd9wOnYTSeoEbfls-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Turn on Stopwatch" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="-420" as="geometry" />
+        </mxCell>
+        <mxCell id="UIcPYd9wOnYTSeoEbfls-13" edge="1" parent="1" source="UIcPYd9wOnYTSeoEbfls-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UIcPYd9wOnYTSeoEbfls-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIcPYd9wOnYTSeoEbfls-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Take out Turkey&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="-300" as="geometry" />
+        </mxCell>
+        <mxCell id="UIcPYd9wOnYTSeoEbfls-20" edge="1" parent="1" source="UIcPYd9wOnYTSeoEbfls-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UIcPYd9wOnYTSeoEbfls-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIcPYd9wOnYTSeoEbfls-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Has the Tirkey been in the Oven for 4 hours or is Turkey 180?&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="80" x="380" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="UIcPYd9wOnYTSeoEbfls-14" edge="1" parent="1" source="UIcPYd9wOnYTSeoEbfls-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UIcPYd9wOnYTSeoEbfls-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIcPYd9wOnYTSeoEbfls-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Put in Meat Thermometer" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="-190" as="geometry" />
+        </mxCell>
+        <mxCell id="UIcPYd9wOnYTSeoEbfls-18" edge="1" parent="1" source="UIcPYd9wOnYTSeoEbfls-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UIcPYd9wOnYTSeoEbfls-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIcPYd9wOnYTSeoEbfls-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Turn off Oven" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIcPYd9wOnYTSeoEbfls-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="End" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
