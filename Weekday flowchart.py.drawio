@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15" version="29.6.1">
+  <diagram name="Page-1" id="ut40fjbsFMS4FvLKcPBM">
+    <mxGraphModel dx="1013" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tjrBBbGjbYG2f6V-l9iw-2" edge="1" parent="1" source="tjrBBbGjbYG2f6V-l9iw-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tjrBBbGjbYG2f6V-l9iw-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjrBBbGjbYG2f6V-l9iw-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="80" width="120" x="380" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tjrBBbGjbYG2f6V-l9iw-4" edge="1" parent="1" source="tjrBBbGjbYG2f6V-l9iw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tjrBBbGjbYG2f6V-l9iw-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjrBBbGjbYG2f6V-l9iw-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Input Number 1-7" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tjrBBbGjbYG2f6V-l9iw-6" edge="1" parent="1" source="tjrBBbGjbYG2f6V-l9iw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjrBBbGjbYG2f6V-l9iw-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Monday=1, Tuesday=2, Wednesday=3, Thursday=4&lt;div&gt;Friday=5, Saturday=6, Sunday=7&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="tjrBBbGjbYG2f6V-l9iw-9" edge="1" parent="1" source="tjrBBbGjbYG2f6V-l9iw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tjrBBbGjbYG2f6V-l9iw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tjrBBbGjbYG2f6V-l9iw-10" connectable="0" parent="tjrBBbGjbYG2f6V-l9iw-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.0333" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjrBBbGjbYG2f6V-l9iw-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Is input number 1,2,3,4,5,6,7?" vertex="1">
+          <mxGeometry height="80" width="80" x="400" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="tjrBBbGjbYG2f6V-l9iw-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="End" vertex="1">
+          <mxGeometry height="80" width="120" x="380" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="tjrBBbGjbYG2f6V-l9iw-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Number Invalid" vertex="1">
+          <mxGeometry height="60" width="120" x="590" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="tjrBBbGjbYG2f6V-l9iw-16" edge="1" parent="1" source="tjrBBbGjbYG2f6V-l9iw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.586;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" target="tjrBBbGjbYG2f6V-l9iw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tjrBBbGjbYG2f6V-l9iw-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.565;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="tjrBBbGjbYG2f6V-l9iw-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="460" />
+            </Array>
+            <mxPoint x="480" y="460" as="sourcePoint" />
+            <mxPoint x="530" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjrBBbGjbYG2f6V-l9iw-18" connectable="0" parent="tjrBBbGjbYG2f6V-l9iw-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.5595" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

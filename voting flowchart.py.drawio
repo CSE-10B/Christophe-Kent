@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15" version="29.6.1">
+  <diagram name="Page-1" id="-f7t2N4W1AS_Zw3kz-Nq">
+    <mxGraphModel dx="1216" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9qw4d7qtQIpfbJMYsiGP-2" edge="1" parent="1" source="9qw4d7qtQIpfbJMYsiGP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9qw4d7qtQIpfbJMYsiGP-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="80" width="120" x="365" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9qw4d7qtQIpfbJMYsiGP-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Input number" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="9qw4d7qtQIpfbJMYsiGP-5" edge="1" parent="1" source="9qw4d7qtQIpfbJMYsiGP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.458;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424.96000000000004" y="400.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9qw4d7qtQIpfbJMYsiGP-17" edge="1" parent="1" source="9qw4d7qtQIpfbJMYsiGP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9qw4d7qtQIpfbJMYsiGP-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qw4d7qtQIpfbJMYsiGP-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Number equal or over 18 eligible to vote" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="9qw4d7qtQIpfbJMYsiGP-10" edge="1" parent="1" source="9qw4d7qtQIpfbJMYsiGP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="9qw4d7qtQIpfbJMYsiGP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qw4d7qtQIpfbJMYsiGP-12" connectable="0" parent="9qw4d7qtQIpfbJMYsiGP-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="0.04" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9qw4d7qtQIpfbJMYsiGP-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Is number equal or over 18?&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="80" x="385" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="9qw4d7qtQIpfbJMYsiGP-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="End" vertex="1">
+          <mxGeometry height="80" width="120" x="365" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="9qw4d7qtQIpfbJMYsiGP-13" edge="1" parent="1" source="9qw4d7qtQIpfbJMYsiGP-7" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="9qw4d7qtQIpfbJMYsiGP-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="630" />
+              <mxPoint x="610" y="530" />
+            </Array>
+            <mxPoint x="470" y="560" as="sourcePoint" />
+            <mxPoint x="520" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9qw4d7qtQIpfbJMYsiGP-14" connectable="0" parent="9qw4d7qtQIpfbJMYsiGP-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="0.0473" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9qw4d7qtQIpfbJMYsiGP-16" edge="1" parent="1" source="9qw4d7qtQIpfbJMYsiGP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9qw4d7qtQIpfbJMYsiGP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qw4d7qtQIpfbJMYsiGP-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Not eligible to vote if age under 18" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="500" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

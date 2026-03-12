@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15" version="29.6.1">
+  <diagram name="Page-1" id="qIby1hy9uy-nV1PbojjH">
+    <mxGraphModel dx="1013" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OA1sUBC1xLjaQdLpynVM-2" edge="1" parent="1" source="OA1sUBC1xLjaQdLpynVM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OA1sUBC1xLjaQdLpynVM-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OA1sUBC1xLjaQdLpynVM-9" edge="1" parent="1" source="OA1sUBC1xLjaQdLpynVM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OA1sUBC1xLjaQdLpynVM-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="80" width="120" x="380" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OA1sUBC1xLjaQdLpynVM-4" edge="1" parent="1" source="OA1sUBC1xLjaQdLpynVM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OA1sUBC1xLjaQdLpynVM-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Input 3 sides of a triangle A, B, C" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="OA1sUBC1xLjaQdLpynVM-7" edge="1" parent="1" source="OA1sUBC1xLjaQdLpynVM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OA1sUBC1xLjaQdLpynVM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA1sUBC1xLjaQdLpynVM-8" connectable="0" parent="OA1sUBC1xLjaQdLpynVM-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.2889" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OA1sUBC1xLjaQdLpynVM-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Are all sides of triangle equal?" vertex="1">
+          <mxGeometry height="80" width="80" x="400" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="OA1sUBC1xLjaQdLpynVM-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="End" vertex="1">
+          <mxGeometry height="80" width="120" x="380" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="OA1sUBC1xLjaQdLpynVM-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Triangle is not equilateral?" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="OA1sUBC1xLjaQdLpynVM-11" edge="1" parent="1" source="OA1sUBC1xLjaQdLpynVM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" target="OA1sUBC1xLjaQdLpynVM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA1sUBC1xLjaQdLpynVM-12" connectable="0" parent="OA1sUBC1xLjaQdLpynVM-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.2158" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
