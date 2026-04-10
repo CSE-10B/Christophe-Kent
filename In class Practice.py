@@ -5,7 +5,7 @@ done = False
 while done == False:
     if guess == number:
         print("you win")
-        done = True
+        done = Truedss
         While done == False:
         if guess == number:
             print("you win")
